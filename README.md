@@ -1,5 +1,5 @@
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Juan%20Fernández%20(jjfernaa)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+<img src="https://capsule-render.vercel.app/api?color=0:1a202c,50:2d3748,100:4a5568&height=250&section=header&text=Juan%20Fernández&desc=@jjfernaa%20|%2042%20Student&fontSize=42&descSize=18&descAlign=50&descAlignY=60&type=waving&fontColor=ffffff&fontAlign=50&fontAlignY=40"
   alt="header"/>
 </div>
  <h1 align="center">Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
