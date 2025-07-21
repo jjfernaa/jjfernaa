@@ -34,7 +34,7 @@
 
 | jjfernaa's Stats | Ultimate Streak |
 |------------------|-----------------|
-| ![jjfernaa's Stats](https://github-readme-stats.vercel.app/api?username=jjfernaa&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![jjfernaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjfernaa&theme=onedark&hide_border=true) |
+| ![jjfernaa's Stats](https://github-readme-stats.vercel.app/api?username=jjfernaa&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![jjfernaa's Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=jjfernaa&theme=onedark&hide_border=true) |
 
 | Most Lang |
 |-----------|
