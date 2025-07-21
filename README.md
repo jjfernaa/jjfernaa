@@ -6,7 +6,9 @@
 
 <div align="Center">
   
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=;Student+at+42+School;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Student+at+42+School;Aspiring+Developer;Always+learning+new+things&center=true&width=600&height=80&size=28&repeat=true&pause=1000&color=58A6FF">
+</a>
 
 <div align="Center">
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages and Tools:</h1>
