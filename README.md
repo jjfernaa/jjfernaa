@@ -34,11 +34,11 @@
 
 | jjfernaa's Stats | Ultimate Streak |
 |------------------|-----------------|
-| ![jjfernaa's Stats](https://github-readme-stats-plus-theta.vercel.app/api?username=jjfernaa&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![jjfernaa's Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=jjfernaa&theme=onedark&hide_border=true) |
+| ![jjfernaa's Stats](https://github-readme-stats.vercel.app/api?username=jjfernaa&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![jjfernaa's Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=jjfernaa&theme=onedark&hide_border=true) |
 
 | Most Lang |
 |-----------|
-| ![jjfernaa's Top Languages](https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=jjfernaa&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![jjfernaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjfernaa&theme=onedark&show_icons=true&hide_border=true&layout=compact)|
 
 </div>
 
